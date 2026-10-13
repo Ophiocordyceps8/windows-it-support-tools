@@ -1,0 +1,26 @@
+﻿Wyniki Raportu Systemowego:
+------------------------------
+Czas Raportu: 2026-10-13 19:09:04
+Uzytkownik: ilove
+Grupa: POLYLITH
+------------------------------
+System operacyjny: Microsoft Windows 11 Home 10.0.26200
+Wersja systemu: 26200
+------------------------------
+Czas Pracy: 13 dni, 6 godzin, 59 minut
+------------------------------
+CPU:   
+ Model: AMD Ryzen 5 5600 6-Core Processor                  
+RAM:
+    Calkowita: 31.93 GB
+    Uzywane: 13.84 GB
+    Wolne: 18.09 GB
+    Procesy o najwyzszym zuzyciu pamieci:
+        1. vivaldi - 950.6 MB
+        2. vivaldi - 898.05 MB
+        3. msedgewebview2 - 619.88 MB
+Dysk:
+    Calkowita: 952.03 GB
+    Zuzyta: 676.71 GB
+    Wolne: 275.32 GB
+------------------------------

@@ -1,0 +1,14 @@
+﻿------------------------------
+Czas Raportu: 2026-10-13 19:09:09
+Uzytkownik: ilove
+Grupa: POLYLITH
+------------------------------
+Interfejs Sieciowy: Ethernet 3 Ethernet
+Adres IP: 192.168.56.1 192.168.1.101
+Gateway: 192.168.1.1
+DNS: 1.1.1.1, 8.8.8.8
+------------------------------
+Test lacznosci:
+    Gateway Ping (192.168.1.1): Polaczenie Poprawne
+    Internet Ping (8.8.8.8): Polaczenie Poprawne
+------------------------------
